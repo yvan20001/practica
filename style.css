@@ -1,0 +1,16 @@
+.hijo{background: cadetblue;margin-left:100px ;}
+
+.contenedor{display: flex;margin-left: 500px;}
+article{background: darkgray;margin-right: 900px; }
+section{display: inline;}
+footer{text-align: center; background: cornflowerblue;margin-right: 350px; margin-left: 350px;}
+nav{text-align: center;background:black;margin-left: 350px; margin-right: 350px; color:white}
+p{background: black; color: white;}
+.agrupar{display: grid;grid-template-columns: 33% 33% 33%; background: black;color: white;}
+.p1{background: black;color: white;}
+.grid2{display: grid;grid-template-columns: 50% 50%;margin-left: 1px; margin-right: 1px;}
+.grid4{display: grid;grid-template-columns: 20% 80%; margin-left: 1px; margin-right: 1px;background: black;color: white;}
+.h4{background: black;color: white;}
+.klk{background: chocolate; ; margin-right: 400px;display: flex; margin-left: 500px;}
+header{background: black;color: white; text-align: center; margin-left: 350px; margin-right: 350px;}
+#body1{padding-top: 500px;}
